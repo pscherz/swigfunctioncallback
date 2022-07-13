@@ -1,5 +1,3 @@
-obj
-bin
-
 a_wrap.cxx
 a_wrap.h
+liba.py

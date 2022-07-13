@@ -5,7 +5,7 @@ callback function from a scripting language?
 
 ## Tested with
 
-Python 3.10 and dotnet 6.0 on Fedora 34.
+Swig 4.0.2, gcc-12.1, Python 3.10 and dotnet 6.0 on Fedora 34.
 
 ## Build order
 
